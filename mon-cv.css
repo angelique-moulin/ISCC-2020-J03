@@ -1,0 +1,46 @@
+h1
+{
+background-color: gray;
+}
+
+section
+{
+
+    border-color: gray;
+padding: 5%;
+margin: 5%;
+border-width: 1px;
+border-style: solid;
+}
+footer
+{
+    background-color: gray;
+}
+
+CV NORMAL 
+
+body
+{
+    background-color: white;
+}
+h1
+{
+    text-align: center;
+    background-color: grey;
+}
+body
+{
+    background-color: rgb(165, 165, 165);
+
+}
+footer
+{
+    background-color: grey;
+}
+section
+{
+    border-width: 1px; 
+    border-style: solid;
+    border-color: black;
+    margin: 0% 10%;
+}
